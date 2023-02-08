@@ -1,0 +1,75 @@
+﻿@page "/"
+@inject IJSRuntime JSRuntime
+
+<PageTitle>Index</PageTitle>
+<body>
+    <div>
+        <input type="number" min="0" max="1000" value="@CreditScore" id="draw_value" @onchange="@OnInputChange" />
+
+        <button id="draw">Draw</button>
+
+    </div>
+    <div>
+        <p id="title">
+            My Credit Score
+        </p>
+        <p class="desc">
+            Last updated on @DateLastUpdated.ToString("MMM") @DateLastUpdated.Day<sup>@suffix(DateLastUpdated.Day)</sup> @DateLastUpdated.ToString("yyyy")
+        </p>
+    </div>
+    <div id="circle-chart">
+        <canvas id="canvas" width="300" height="150"></canvas>
+        <div id="center-circle">
+            <div id="current_val">0</div>
+        </div>
+        <div id="indicator-area">
+            <div id="indicator-container">
+                <div id="indicator">
+                    <div id="indicator-pointer"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <p class="desc">
+        <span id="point_count"></span> from your previous pull
+    </p>
+</body>
+@code {
+    [Parameter]
+    public string? CreditScore { get; set; }
+
+    [Parameter]
+    public string? DateDisplay { get; set; }
+
+    public string LastCreditScore = "0";
+
+    public DateTime DateLastUpdated;
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        await JSRuntime.InvokeVoidAsync("initFunction");
+    }
+
+    [Parameter]
+    public EventCallback<string> ValueChanged { get; set; }
+    private async Task OnInputChange(ChangeEventArgs args)
+    {
+        DateLastUpdated = DateTime.Now;
+        DateDisplay = DateLastUpdated.ToString("MMM") + DateLastUpdated.Day + suffix(DateLastUpdated.Day) + DateLastUpdated.ToString("yyyy");
+        CreditScore = (string)args.Value;
+        await ValueChanged.InvokeAsync(CreditScore.ToString());
+        await JSRuntime.InvokeVoidAsync("DrawIndicator", Convert.ToInt32(CreditScore), DateLastUpdated, Convert.ToInt32(LastCreditScore));
+        LastCreditScore = CreditScore;
+    }
+
+    public string suffix(int day)
+    {
+        string str = "th";
+        if (day == 1)
+            str = "st";
+        if (day == 2)
+            str = "nd";
+        if (day == 3)
+            str = "rd";
+        return str;
+    }
+}
