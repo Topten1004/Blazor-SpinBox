@@ -9,41 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ServerApp
 build_property.RootNamespace = ServerApp
-build_property.ProjectDir = E:\GitHub\FullStack_Github\Blazor-UI\ServerApp\ServerApp\
+build_property.ProjectDir = D:\GitHub\FullStack_Github\Blazor-SpinBox\ServerApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\GitHub\FullStack_Github\Blazor-UI\ServerApp\ServerApp
+build_property.MSBuildProjectDirectory = D:\GitHub\FullStack_Github\Blazor-SpinBox\ServerApp
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/GitHub/FullStack_Github/Blazor-UI/ServerApp/ServerApp/App.razor]
+[D:/GitHub/FullStack_Github/Blazor-SpinBox/ServerApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/GitHub/FullStack_Github/Blazor-UI/ServerApp/ServerApp/Shared/SurveyPrompt.razor]
+[D:/GitHub/FullStack_Github/Blazor-SpinBox/ServerApp/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/GitHub/FullStack_Github/Blazor-UI/ServerApp/ServerApp/_Imports.razor]
+[D:/GitHub/FullStack_Github/Blazor-SpinBox/ServerApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/GitHub/FullStack_Github/Blazor-UI/ServerApp/ServerApp/Pages/Index.razor]
+[D:/GitHub/FullStack_Github/Blazor-SpinBox/ServerApp/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ldsbbc9oyx
 
-[E:/GitHub/FullStack_Github/Blazor-UI/ServerApp/ServerApp/Shared/MainLayout.razor]
+[D:/GitHub/FullStack_Github/Blazor-SpinBox/ServerApp/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-3vsfnz01gq
 
-[E:/GitHub/FullStack_Github/Blazor-UI/ServerApp/ServerApp/Pages/Error.cshtml]
+[D:/GitHub/FullStack_Github/Blazor-SpinBox/ServerApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/GitHub/FullStack_Github/Blazor-UI/ServerApp/ServerApp/Pages/_Host.cshtml]
+[D:/GitHub/FullStack_Github/Blazor-SpinBox/ServerApp/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/GitHub/FullStack_Github/Blazor-UI/ServerApp/ServerApp/Pages/_Layout.cshtml]
+[D:/GitHub/FullStack_Github/Blazor-SpinBox/ServerApp/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

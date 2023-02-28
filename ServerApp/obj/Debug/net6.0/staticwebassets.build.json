@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "c8Y1ULOh/e4v6aI39uuVsb0GCWcf8iI1fxb0gFS0gGk=",
+  "Hash": "3EyVIIeBQ1CCAxIRwK9fb++iuYO6y1x2cs5DSH9a9+M=",
   "Source": "ServerApp",
   "BasePath": "_content/ServerApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ServerApp\\wwwroot",
       "Source": "ServerApp",
-      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\",
       "BasePath": "_content/ServerApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ServerApp.styles.css",
+      "Identity": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ServerApp.styles.css",
       "SourceId": "ServerApp",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ServerApp",
       "RelativePath": "ServerApp.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ServerApp.styles.css"
+      "OriginalItemSpec": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ServerApp.styles.css"
     },
     {
-      "Identity": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ServerApp.bundle.scp.css",
+      "Identity": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ServerApp.bundle.scp.css",
       "SourceId": "ServerApp",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ServerApp",
       "RelativePath": "ServerApp.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ServerApp.bundle.scp.css"
+      "OriginalItemSpec": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ServerApp.bundle.scp.css"
     },
     {
-      "Identity": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "ServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\",
       "BasePath": "_content/ServerApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "ServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\",
       "BasePath": "_content/ServerApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "ServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\",
       "BasePath": "_content/ServerApp",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "ServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\",
       "BasePath": "_content/ServerApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "ServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\",
       "BasePath": "_content/ServerApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "ServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\",
       "BasePath": "_content/ServerApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "ServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\",
       "BasePath": "_content/ServerApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "ServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\",
       "BasePath": "_content/ServerApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "ServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\",
       "BasePath": "_content/ServerApp",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "ServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\",
       "BasePath": "_content/ServerApp",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "ServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\",
       "BasePath": "_content/ServerApp",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\css\\site.css",
+      "Identity": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\css\\site.css",
       "SourceId": "ServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\",
       "BasePath": "_content/ServerApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\favicon.ico",
+      "Identity": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\favicon.ico",
       "SourceId": "ServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\",
       "BasePath": "_content/ServerApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\scripts\\script.js",
+      "Identity": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\scripts\\script.js",
       "SourceId": "ServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Blazor-UI\\ServerApp\\ServerApp\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\FullStack_Github\\Blazor-SpinBox\\ServerApp\\wwwroot\\",
       "BasePath": "_content/ServerApp",
       "RelativePath": "scripts/script.js",
       "AssetKind": "All",
